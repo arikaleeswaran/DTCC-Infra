@@ -1,0 +1,61 @@
+repayment_id,customer_id,customer_name,age,city,employment_type,annual_income,credit_score,loan_id,loan_type,loan_amount,interest_rate,tenure_months,monthly_emi,loan_status,payment_date,amount_paid,payment_method,payment_status
+3001,1001,Arun Kumar,29,Chennai,Salaried,720000,742,2001,Personal,250000,11.5,36,8244.0,Active,2026-01-05,8244.0,UPI,Paid
+3002,1001,Arun Kumar,29,Chennai,Salaried,720000,742,2001,Personal,250000,11.5,36,8244.0,Active,2026-02-05,8244.0,Bank Transfer,Paid
+3003,1001,Arun Kumar,29,Chennai,Salaried,720000,742,2001,Personal,250000,11.5,36,8244.0,Active,2026-03-05,8244.0,Auto Debit,Paid
+3004,1002,Priya Sharma,34,Bengaluru,Salaried,960000,781,2002,Home,3200000,8.4,240,27568.14,Active,2026-01-06,27568.14,Bank Transfer,Paid
+3005,1002,Priya Sharma,34,Bengaluru,Salaried,960000,781,2002,Home,3200000,8.4,240,27568.14,Active,2026-02-06,27568.14,Auto Debit,Paid
+3006,1002,Priya Sharma,34,Bengaluru,Salaried,960000,781,2002,Home,3200000,8.4,240,27568.14,Active,2026-03-06,27568.14,UPI,Paid
+3007,1003,Vijay Raj,41,Coimbatore,Self-Employed,1080000,715,2003,Vehicle,850000,9.2,60,17727.22,Active,2026-01-07,17727.22,Auto Debit,Paid
+3008,1003,Vijay Raj,41,Coimbatore,Self-Employed,1080000,715,2003,Vehicle,850000,9.2,60,17727.22,Active,2026-02-07,17727.22,UPI,Paid
+3009,1003,Vijay Raj,41,Coimbatore,Self-Employed,1080000,715,2003,Vehicle,850000,9.2,60,17727.22,Active,2026-03-07,17727.22,Bank Transfer,Paid
+3010,1004,Meena Devi,27,Madurai,Salaried,540000,698,2004,Education,600000,8.8,84,9592.66,Active,2026-01-08,9592.66,UPI,Paid
+3011,1004,Meena Devi,27,Madurai,Salaried,540000,698,2004,Education,600000,8.8,84,9592.66,Active,2026-02-08,9592.66,Bank Transfer,Paid
+3012,1004,Meena Devi,27,Madurai,Salaried,540000,698,2004,Education,600000,8.8,84,9592.66,Active,2026-03-08,9592.66,Auto Debit,Paid
+3013,1005,Karthik S,38,Hyderabad,Business,1500000,766,2005,Business,1800000,12.0,120,25824.77,Active,2026-01-09,25824.77,Bank Transfer,Paid
+3014,1005,Karthik S,38,Hyderabad,Business,1500000,766,2005,Business,1800000,12.0,120,25824.77,Active,2026-02-09,25824.77,Auto Debit,Paid
+3015,1005,Karthik S,38,Hyderabad,Business,1500000,766,2005,Business,1800000,12.0,120,25824.77,Active,2026-03-09,25824.77,UPI,Paid
+3016,1006,Divya R,31,Chennai,Salaried,840000,753,2006,Personal,400000,10.9,48,10318.79,Closed,2026-01-05,10318.79,Auto Debit,Paid
+3017,1006,Divya R,31,Chennai,Salaried,840000,753,2006,Personal,400000,10.9,48,10318.79,Closed,2026-02-05,10318.79,UPI,Paid
+3018,1006,Divya R,31,Chennai,Salaried,840000,753,2006,Personal,400000,10.9,48,10318.79,Closed,2026-03-05,10318.79,Bank Transfer,Paid
+3019,1007,Rahul Verma,45,Pune,Self-Employed,1200000,729,2007,Home,2800000,8.6,240,24476.56,Active,2026-01-06,24476.56,UPI,Paid
+3020,1007,Rahul Verma,45,Pune,Self-Employed,1200000,729,2007,Home,2800000,8.6,240,24476.56,Active,2026-02-06,24476.56,Bank Transfer,Paid
+3021,1007,Rahul Verma,45,Pune,Self-Employed,1200000,729,2007,Home,2800000,8.6,240,24476.56,Active,2026-03-06,24476.56,Auto Debit,Paid
+3022,1008,Sneha Nair,26,Kochi,Salaried,600000,771,2008,Vehicle,700000,9.0,60,14530.85,Active,2026-01-07,14530.85,Bank Transfer,Paid
+3023,1008,Sneha Nair,26,Kochi,Salaried,600000,771,2008,Vehicle,700000,9.0,60,14530.85,Active,2026-02-07,14530.85,Auto Debit,Paid
+3024,1008,Sneha Nair,26,Kochi,Salaried,600000,771,2008,Vehicle,700000,9.0,60,14530.85,Active,2026-03-07,14530.85,UPI,Paid
+3025,1009,Suresh Babu,52,Coimbatore,Business,1800000,704,2009,Business,2200000,11.7,120,31183.25,Active,2026-01-08,31183.25,Auto Debit,Paid
+3026,1009,Suresh Babu,52,Coimbatore,Business,1800000,704,2009,Business,2200000,11.7,120,31183.25,Active,2026-02-08,31183.25,UPI,Paid
+3027,1009,Suresh Babu,52,Coimbatore,Business,1800000,704,2009,Business,2200000,11.7,120,31183.25,Active,2026-03-08,31183.25,Bank Transfer,Paid
+3028,1010,Ananya Iyer,33,Bengaluru,Salaried,1020000,812,2010,Personal,350000,10.5,36,11375.86,Closed,2026-01-09,11375.86,UPI,Paid
+3029,1010,Ananya Iyer,33,Bengaluru,Salaried,1020000,812,2010,Personal,350000,10.5,36,11375.86,Closed,2026-02-09,11375.86,Bank Transfer,Paid
+3030,1010,Ananya Iyer,33,Bengaluru,Salaried,1020000,812,2010,Personal,350000,10.5,36,11375.86,Closed,2026-03-09,11375.86,Auto Debit,Paid
+3031,1011,Manoj Kumar,36,Salem,Salaried,780000,689,2011,Education,500000,8.9,72,8987.97,Active,2026-01-05,8987.97,Bank Transfer,Paid
+3032,1011,Manoj Kumar,36,Salem,Salaried,780000,689,2011,Education,500000,8.9,72,8987.97,Active,2026-02-05,8987.97,Auto Debit,Paid
+3033,1011,Manoj Kumar,36,Salem,Salaried,780000,689,2011,Education,500000,8.9,72,8987.97,Active,2026-03-05,8987.97,UPI,Paid
+3034,1012,Lakshmi P,43,Chennai,Self-Employed,1320000,738,2012,Home,2600000,8.3,180,25299.34,Active,2026-01-06,25299.34,Auto Debit,Paid
+3035,1012,Lakshmi P,43,Chennai,Self-Employed,1320000,738,2012,Home,2600000,8.3,180,25299.34,Active,2026-02-06,25299.34,UPI,Paid
+3036,1012,Lakshmi P,43,Chennai,Self-Employed,1320000,738,2012,Home,2600000,8.3,180,25299.34,Active,2026-03-06,25299.34,Bank Transfer,Paid
+3037,1013,Naveen Reddy,30,Hyderabad,Salaried,900000,759,2013,Vehicle,950000,9.4,72,17313.47,Active,2026-01-07,17313.47,UPI,Paid
+3038,1013,Naveen Reddy,30,Hyderabad,Salaried,900000,759,2013,Vehicle,950000,9.4,72,17313.47,Active,2026-02-07,17313.47,Bank Transfer,Paid
+3039,1013,Naveen Reddy,30,Hyderabad,Salaried,900000,759,2013,Vehicle,950000,9.4,72,17313.47,Active,2026-03-07,17313.47,Auto Debit,Paid
+3040,1014,Pooja Singh,39,Pune,Business,1680000,793,2014,Business,2000000,11.2,120,27776.91,Active,2026-01-08,27776.91,Bank Transfer,Paid
+3041,1014,Pooja Singh,39,Pune,Business,1680000,793,2014,Business,2000000,11.2,120,27776.91,Active,2026-02-08,27776.91,Auto Debit,Paid
+3042,1014,Pooja Singh,39,Pune,Business,1680000,793,2014,Business,2000000,11.2,120,27776.91,Active,2026-03-08,27776.91,UPI,Paid
+3043,1015,Gokul M,25,Tiruchirappalli,Salaried,480000,681,2015,Personal,180000,12.2,24,8490.05,Active,2026-01-09,8490.05,Auto Debit,Paid
+3044,1015,Gokul M,25,Tiruchirappalli,Salaried,480000,681,2015,Personal,180000,12.2,24,8490.05,Active,2026-02-09,8490.05,UPI,Paid
+3045,1015,Gokul M,25,Tiruchirappalli,Salaried,480000,681,2015,Personal,180000,12.2,24,8490.05,Active,2026-03-09,8490.05,Bank Transfer,Paid
+3046,1016,Farah Khan,37,Bengaluru,Self-Employed,1140000,747,2016,Education,750000,8.7,84,11952.93,Active,2026-01-05,11952.93,UPI,Paid
+3047,1016,Farah Khan,37,Bengaluru,Self-Employed,1140000,747,2016,Education,750000,8.7,84,11952.93,Active,2026-02-05,11952.93,Bank Transfer,Paid
+3048,1016,Farah Khan,37,Bengaluru,Self-Employed,1140000,747,2016,Education,750000,8.7,84,11952.93,Active,2026-03-05,11952.93,Auto Debit,Paid
+3049,1017,Ramesh T,48,Madurai,Business,1440000,722,2017,Home,2400000,8.5,180,23633.75,Closed,2026-01-06,23633.75,Bank Transfer,Paid
+3050,1017,Ramesh T,48,Madurai,Business,1440000,722,2017,Home,2400000,8.5,180,23633.75,Closed,2026-02-06,23633.75,Auto Debit,Paid
+3051,1017,Ramesh T,48,Madurai,Business,1440000,722,2017,Home,2400000,8.5,180,23633.75,Closed,2026-03-06,23633.75,UPI,Paid
+3052,1018,Keerthana S,28,Chennai,Salaried,660000,785,2018,Vehicle,650000,9.1,60,13524.5,Active,2026-01-07,13524.5,Auto Debit,Paid
+3053,1018,Keerthana S,28,Chennai,Salaried,660000,785,2018,Vehicle,650000,9.1,60,13524.5,Active,2026-02-07,13524.5,UPI,Paid
+3054,1018,Keerthana S,28,Chennai,Salaried,660000,785,2018,Vehicle,650000,9.1,60,13524.5,Active,2026-03-07,13524.5,Bank Transfer,Paid
+3055,1019,Ajay Menon,40,Kochi,Salaried,1260000,731,2019,Personal,300000,10.8,36,9793.23,Active,2026-01-08,9793.23,UPI,Paid
+3056,1019,Ajay Menon,40,Kochi,Salaried,1260000,731,2019,Personal,300000,10.8,36,9793.23,Active,2026-02-08,9793.23,Bank Transfer,Paid
+3057,1019,Ajay Menon,40,Kochi,Salaried,1260000,731,2019,Personal,300000,10.8,36,9793.23,Active,2026-03-08,9793.23,Auto Debit,Paid
+3058,1020,Swathi Rao,32,Mysuru,Self-Employed,960000,768,2020,Business,1600000,11.5,96,25567.0,Active,2026-01-09,25567.0,Bank Transfer,Paid
+3059,1020,Swathi Rao,32,Mysuru,Self-Employed,960000,768,2020,Business,1600000,11.5,96,25567.0,Active,2026-02-09,25567.0,Auto Debit,Paid
+3060,1020,Swathi Rao,32,Mysuru,Self-Employed,960000,768,2020,Business,1600000,11.5,96,25567.0,Active,2026-03-09,25567.0,UPI,Paid
